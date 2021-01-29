@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>department-of-magic-creatures.png</file>
+  </qresource>
+</RCC>
