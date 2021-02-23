@@ -17,7 +17,7 @@
    <string>descrição</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QListView" name="listAnimals">
+   <widget class="QListWidget" name="listAnimals">
     <property name="geometry">
      <rect>
       <x>10</x>
@@ -119,7 +119,7 @@
      <string>Curiosidades</string>
     </property>
    </widget>
-   <widget class="QTextBrowser" name="textBrowser">
+   <widget class="QPlainTextEdit" name="textBrowser">
     <property name="geometry">
      <rect>
       <x>250</x>
@@ -139,7 +139,7 @@
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true">image: url(:/newPrefix/department-of-magic-creatures.png);</string>
+     <string notr="true">image: url(images/logo/department-of-magic-creatures.png);</string>
     </property>
     <property name="text">
      <string/>
@@ -158,7 +158,7 @@
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true">image: url(:/newPrefix/ministry-of-magic (2).png);</string>
+     <string notr="true">image: url(images/logo/ministry-of-magic (2).png);</string>
     </property>
     <property name="text">
      <string/>
